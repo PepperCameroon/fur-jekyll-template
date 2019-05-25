@@ -2,7 +2,7 @@
 # Site
 
 title: Fur
-url: "https://peppercameroon.github.io/webstore/"
+url: "https://pepper.cm"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -14,10 +14,10 @@ description: Pepper store
 author:
   name: pepper
   email: contact@pepper.cm
-  twitter: fur # twitter username without the @ symbol
-  phone: "+1 23456789"
+  twitter: peppercameroon # twitter username without the @ symbol
+  phone: "+237 23456789"
 social:
-  name: Fur Template
+  name: Pepper
   links:
     - https://github.com/CloudCannon/fur-jekyll-template
 
