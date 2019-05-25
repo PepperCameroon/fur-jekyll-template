@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Fur
+title: Pepper
 url: "https://pepper.cm"
 baseurl:
 google_analytics_key:
@@ -10,7 +10,7 @@ snipcart_key: "NWNjOWZhYjctYmE1ZS00MDM3LThkNjUtZmE5M2NiMTU1NzAwNjM2MjYzNTE1MzM5O
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Pepper store
+description: Cameroon Pepper store
 author:
   name: pepper
   email: contact@pepper.cm
